@@ -46,7 +46,7 @@ int main()
         {
             cout << "數字a等於數字b" << endl;
         }
-    
+    }
     else
     {
         cout << "輸入錯誤" << endl;
